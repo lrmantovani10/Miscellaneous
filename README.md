@@ -7,7 +7,7 @@ Contents include:
   * Matrix game - text game in the Windows terminal that simulates Neo entering the Matrix and renders images from the movie only through ASCII characters.
   * Batcomputer - a simulation of what the batcomputer could say to you...
  * JavaScript images: Internet art 🎨 made with JavaScript
- * Ocaml_Fun: File containing the OCaml implementation of operations such as finding the height of a bianry tree, computing the Collatz sequence, etc.
+ * Ocaml_Fun: File containing the OCaml implementation of operations such as finding the height of a binary tree, computing the Collatz sequence, etc.
 
 
 Hope you enjoy ;)
